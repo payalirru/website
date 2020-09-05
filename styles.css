@@ -1,0 +1,74 @@
+
+body{
+    margin:0;
+    text-align: center;
+    background-color: aqua;
+    font-family:  cursive;
+    color:#40514E;
+    
+}
+h1{
+padding-top: 106px;
+/*color:#66BFBF;*/
+
+}
+h2{
+    
+    font-weight:normal;
+    padding-bottom: 10px;
+}
+h3{
+    color:#11999E;
+}
+.top-container{
+    background-color: aqua;
+    position:relative;
+    padding-top: 100px;
+  
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    right:200px;
+    top:74px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+
+}.computer-img{
+    width:25%;
+    float:left;
+    margin-right: 30px;
+}
+.chilli-img{
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
+.middle-container{
+    margin:100px 0;
+    background-color:white ;
+}
+.intro{
+    width:30%;
+    margin:auto;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border:dotted black;
+    border-bottom: none;
+    width:4%;
+    margin:100px auto;
+}
+.contact-msg{
+ width:40%;  
+ margin:40px auto 60px;  
+}
+
